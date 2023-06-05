@@ -1,0 +1,147 @@
+            /* Intro Section */
+
+      #intro {
+	  text-align: center;
+	    padding: 50px;
+	      background-color: #f2f2f2;
+      }
+
+      #intro img {
+	        max-width: 100%;
+	}
+
+	#intro h1 {
+		  font-size: 3em;
+		    margin-top: 20px;
+	    }
+
+	#intro p {
+		   font-size: 1.5em;
+		   margin-bottom: 20px;
+		}
+
+	#intro nav {
+		    margin-bottom: 20px;
+		  }
+
+	#intro nav ul {
+		       display: flex;
+		       justify-content: center;
+		      }
+
+	#intro nav li {
+			margin-right: 20px;
+		      }
+
+	#intro nav li:last-child {
+				  margin-right: 0;
+			  }
+
+	#intro nav a {
+			font-size: 1.5em;
+		    }
+
+	.button {
+		  display: inline-block;
+	          padding: 10px 20px;
+		  background-color: #007bff;
+		  color: #fff;
+	          text-decoration: none;
+		  border-radius: 5px;
+		}
+
+	.button:hover {
+			background-color: #0062cc;
+		 }
+
+
+		/* Feature Section */
+	 #features {
+		     text-align: center;
+		     padding: 50px;
+		 }
+
+	.feature {
+		    margin-bottom: 50px;
+		}
+
+	.feature img {
+			 max-width: 100%;
+		 }
+
+	.feature h2 {
+			font-size: 2em;
+			margin-top: 20px;
+		 }
+
+	.feature p {
+		       font-size: 1.2em;
+		}
+
+
+		/* About Section */
+	#about {
+		      text-align: center;
+		      padding: 50px;
+		 }
+
+	#about h2 {
+		      font-size: 3em;
+		      margin-top: 20px;
+		}
+
+	#about p {
+                     font-size: 1.5em;
+		     margin-bottom: 20px;
+		}
+
+        #about ul {
+		     display: flex;
+		     justify-content: center;
+		     flex-wrap: wrap;
+	     }
+						
+	     #about li {
+										
+		     margin-right: 20px;
+									  
+	     }
+
+									   
+	     #about li:last-child {
+										      
+		     margin-right: 0;
+						
+	     }
+
+									     
+	     #about li a {
+										        
+		     font-size: 1.5em;
+										
+	     }
+
+										
+	     .button {
+											  
+		     display: inline-block;
+											    
+		     padding: 10px 20px;
+											      
+		     background-color: #007bff;
+											        
+		     color: #fff;
+												  
+		     text-decoration: none;
+												    
+		     border-radius: 5px;
+											    
+	     }
+
+											    
+	     .button:hover {
+												      
+		     background-color: #0062cc;
+											      
+	     }
+

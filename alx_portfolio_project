@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Image Compression Algorithm</title>
+	<link rel="stylesheet" href="index.css">
+</head>
+<body>
+        <!-- Intro Section -->
+<section id="intro">
+	<img src="cover-image.jpg" alt="Cover Image">
+	<h1>Image Compression Algorithm</h1>
+<p>The image compression algorithm project aims to develop an efficient and reliable algorithm for reducing the size of digital images while preserving their quality and usability</p>
+<nav>
+<ul>
+ <li><a href="#intro">Intro</a></li>
+ <li><a href="#features">Features</a></li>
+ <li><a href="#about">About</a></li>
+ </ul>
+ </nav>
+ <a href="https://deployed-project-url.com" class="button">Deployed Project</a>
+ </section>
+	<!-- Feature Section -->
+ <section id="features">
+     <div class="feature">
+	
+<img src="feature-1.jpg" alt="Feature 1">
+<h2>Compression Ratio</h2>
+<p>This refers to the reduction in file size achieved by the compression algorithm. A good compression algorithm should be able to significantly reduce the file size of an image without losing too much quality.</p>
+        </div>
+ <div class="feature">
+<img src="feature-2.jpg" alt="Feature 2">
+															
+<h2>Image Quality</h2>
+															
+<p>The quality of the compressed image should be as close as possible to the original image. A good compression algorithm should be able to achieve high compression ratios while maintaining good image quality.</p>
+</div>	
+<div class="feature">													 
+	<img src="feature-3.jpg" alt="Feature 3">	
+	<h2>Compression Speed</h>
+<p>The compression algorithm should be efficient and fast, especially when dealing with large images. A good compression algorithm should be able to compress images quickly without using too much processing power.</p>
+</div>	
+     </section>
+
+ <!-- About Section -->
+															 
+ <section id="about">
+															
+	 <h2>About</h2>
+<p>With the increasing use of smartphones and tablets, there is a growing need for image compression algorithms that can reduce the size of images without sacrificing quality, making it easier to share images on social media or other platforms. This gives me an inspiration to embark on developing a version of this algorithm to give social media users an opportunity to compress their respective images without being undergoing too much stress as well as retain the quality of the images after being compressed </p>	
+<ul>			
+<li><a href="https://linkedin.com/ajiboyehabiibullah">Team Member 1 LinkedIn</a></li>
+
+<li><a href="https://github.com/habiibullah">eam Member 1 GitHub</a></li>						
+<li><a href="https://twitter.com/ahabiibullah"></a></li>								
+<li><a href="https://linkedin.com/team-member-2">Team Member 2 LinkedIn</a></li>																				
+<li><a href="https://github.com/team-member-2">Team Member 2 GitHub</a></li>
+									
+
+<li><a href="https://twitter.com/team-member-2">Team Member 2 Twitter</a></li>			
+																														
+<!-- Add more team member links as needed -->		
+</ul>
+<a href="https://github.com/habiibullah/alx_portfolio_project" class="button">GitHub Repository</a>
+</section>
+</body>
+</html>
+
